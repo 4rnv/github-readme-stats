@@ -466,8 +466,8 @@ export const themes = {
     bg_color: "90,be0a32,000000",
     border_radius: 10,
     title_color: "ffffff",
-    text_color: 000000,
-    border_color: 000000,
+    text_color: "000000",
+    border_color: "000000",
   }
 };
 
